@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Привет,+я+Богдан!;Frontend-разработчик;Пишу+на+React,+JS+и+C%2B%2B;Открыт+к+новым+проектам!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Привет,+я+Руслан!;Frontend-разработчик;Пишу+на+React,+JS+и+C%2B%2B;Открыт+к+новым+проектам!" alt="Typing SVG" />
 </p>
 
 Я разработчик, увлекающийся созданием удобных и красивых приложений. Всегда открыт к изучению новых технологий и решению интересных задач.
