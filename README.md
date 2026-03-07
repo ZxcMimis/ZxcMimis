@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
 
 </p>
+## 🚀 Вайб
+<p align="center">
+  <img src="https://github.com/ZxcMimis/ZxcMimis/blob/main/ruslan_arc_marlboro_left_banner_no_right_arm.png?raw=true" alt="Ruslan Arc Warden & Marlboro Red Left Art Banner No Right Arm" />
+</p>
+
 
 ## 🚀 Недавние проекты
 * **Погодное приложение** — работа с API и стилизация компонентов на React.
