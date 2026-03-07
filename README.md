@@ -19,5 +19,5 @@
 
 ## 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZxcMimis&show_icons=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&icon_color=A371F7&border_color=A371F7" alt="GitHub Stats" />
+ <img src="./stats.svg" alt="GitHub Stats" />
 </p>
