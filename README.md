@@ -1,13 +1,3 @@
-### Frontend Developer | React Enthusiast
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZxcMimis&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZxcMimis&layout=compact&theme=tokyonight)
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- 📚 Интересуюсь играми.
-- 🎮 В свободное время играю в Dark Souls и DOTA2.
+<p align="center">
+<img src="https://image.pollinations.ai/prompt/A%20futuristic%20animated%20banner%20for%20a%20GitHub%20profile%20named%20%27ZxcMimis%27.%20The%20overall%20aesthetic%20is%20dark%20with%20vibrant%20neon%20purple%20and%20cyan%20accents...%20(скопируй всю ссылку выше)" alt="ZxcMimis Banner" />
+</p>
